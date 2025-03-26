@@ -142,7 +142,7 @@ export default function HomePage() {
             >
               <div className="relative z-10 rounded-2xl overflow-hidden shadow-2xl">
                 <img
-                  src="/public/fazenda-solar.jpeg"
+                  src="/public/fazenda.png"
                   height={600}
                   width={800}
                   alt="Energia Sustentável"
